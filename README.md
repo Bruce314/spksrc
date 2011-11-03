@@ -3,7 +3,7 @@ SPKSRC
 
 *SPKSRC is currently in alpha stage. All dependencies do not work correctly.*
 
-SPKSRC is a cross compilation framework intended to compile sfotware for the Synology's NAS.
+SPKSRC is a cross compilation framework intended to compile software for the Synology's NAS.
 
 ## Usage
 To build an spk, cd to the corresponding folder in spk/, and type make ARCH=<your arch>. The list of supported architecture is found in toolchains/ (note that the syno- prefix shall not be added). 
